@@ -10,7 +10,8 @@ This project was built as part of the **Frontend Developer Intern assignment for
 
 Deployed on Vercel:
 
-https://your-vercel-link.vercel.app
+spend-track-dashboard-modxx39lx-kashyap-1906s-projects.vercel.app
+
 
 ---
 
