@@ -16,7 +16,7 @@ https://your-vercel-link.vercel.app
 
 ## GitHub Repository
 
-https://github.com/yourusername/finsight-dashboard
+https://github.com/Kashyap-1906/SpendTrack---dashboard
 
 ---
 
@@ -81,13 +81,13 @@ Charts update dynamically when transactions change.
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/finsight-dashboard.git
+git clone https://github.com/yourusername/SpendTrack---dashboard.git
 ```
 
 Go into project folder
 
 ```bash
-cd finsight-dashboard
+cd SpendTrack---dashboard
 ```
 
 Install dependencies
@@ -127,6 +127,4 @@ src
 
 # Author
 
-**Ivaturi N S Venkata Ramana**
-
-Frontend Developer Intern Assignment – Zorvyn
+**Ivaturi N S Venkata Ramana Kashyap**
